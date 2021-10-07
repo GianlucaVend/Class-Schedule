@@ -1,9 +1,9 @@
 # Class-Schedule
 Representation of class schedule using JavaScript Objects and Arrays: 
 
-Learning to How to export data from a module  (e.g. module,exports=schdule)
+Learning how to export data from a module  (e.g. module,exports=schdule)
 
-As well How to import data from one module into another (e.g. const schedule=require('./schedule.js') 
+As well how to import data from one module into another (e.g. const schedule=require('./schedule.js') 
 
 Dealing with:
 Client-side : Sending requests from client to the server and HTML forms
